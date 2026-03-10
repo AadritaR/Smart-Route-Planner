@@ -1,0 +1,9 @@
+# source destination distance travelTime trafficLevel
+A B 5 10 LOW
+A C 4 8 HIGH
+B D 7 12 MEDIUM
+C D 3 6 LOW
+C E 6 10 HIGH
+D E 2 4 MEDIUM
+D F 8 14 LOW
+E F 3 5 HIGH
