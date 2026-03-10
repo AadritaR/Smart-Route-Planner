@@ -8,7 +8,6 @@ The program computes the fastest route between cities by considering **distance,
 ## Features
 
 - Shortest/Fastest Path Calculation using **Dijkstra’s Algorithm**
-- **Traffic-aware routing** with configurable traffic levels
 - Custom city map input through a file (`map.txt`)
 - Distance and travel time calculation
 - Console visualization of the route
